@@ -1,0 +1,382 @@
+{
+  "id": "sun-liquidprismata",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@liquidprismata Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_97189b66c3af",
+    "display_name": "liquidprismata",
+    "user_id": "@liquidprismata",
+    "description": "Community Archive-derived proof-of-search sun for @liquidprismata.",
+    "document_count": 11794,
+    "word_count": 251395,
+    "active_days": 371,
+    "emissions": [
+      "Think",
+      "Don",
+      "Which",
+      "Only",
+      "Know",
+      "Way"
+    ],
+    "generated_at": "2026-06-27T16:28:09.842174+00:00",
+    "color": "#f59e0b",
+    "mass": 12.435
+  },
+  "planets": [
+    {
+      "id": "planet_33af3ffca634",
+      "name": "Think",
+      "summary": "Archive cluster around think: 10241 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "time",
+        "lol",
+        "actually",
+        "see"
+      ],
+      "artifacts": [
+        {
+          "id": "art_45148e000101",
+          "title": "Think receipt from 2025-08-09",
+          "excerpt": "@i2cjak all civil engineers holding their breath hoping nobody notices &amp; remembers who really belongs in the locker",
+          "source_document_id": "1954023793522839669",
+          "timestamp": "2025-08-09T03:35:51+00:00",
+          "url": "https://x.com/liquidprismata/status/1954023793522839669",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, time, lol, actually."
+        },
+        {
+          "id": "art_09de3a718dfc",
+          "title": "Think receipt from 2025-08-23",
+          "excerpt": "@___frye your interest in a lot of things is a function of your innocence &amp; openness\n\nyou will see patterns others cannot because of it\n\nthus,\na career with low standardization &amp; high reward for emergent problem-solving\n\n(this doesn't need to be an overall under-standardized field btw)",
+          "source_document_id": "1959173256331628600",
+          "timestamp": "2025-08-23T08:37:58+00:00",
+          "url": "https://x.com/liquidprismata/status/1959173256331628600",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, time, lol, actually."
+        },
+        {
+          "id": "art_4600b2f78fa7",
+          "title": "Think receipt from 2025-09-24",
+          "excerpt": "god being free of shame feels SO FUCKING GOOD \ni wish it on all of you",
+          "source_document_id": "1970779833232678980",
+          "timestamp": "2025-09-24T09:18:22+00:00",
+          "url": "https://x.com/liquidprismata/status/1970779833232678980",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, time, lol, actually."
+        },
+        {
+          "id": "art_4ca8c8603302",
+          "title": "Think receipt from 2025-08-27",
+          "excerpt": "@feliformer is 15th century insufficient precedent for you\n\nhttps://t.co/KKPYsmZt60",
+          "source_document_id": "1960593153574011032",
+          "timestamp": "2025-08-27T06:40:08+00:00",
+          "url": "https://x.com/liquidprismata/status/1960593153574011032",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, time, lol, actually."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_933090710325",
+      "proof_score": 1,
+      "mass": 36.534,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_ac50a017989f",
+      "name": "Don",
+      "summary": "Archive cluster around don: 522 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "know",
+        "want",
+        "see",
+        "feel"
+      ],
+      "artifacts": [
+        {
+          "id": "art_402302d46e5c",
+          "title": "Don receipt from 2025-08-11",
+          "excerpt": "@justalexoki Speak in %s and it becomes clearer\n\nYou don't believe “top 2.5%” is high?\n\nIn what domain could that be true?",
+          "source_document_id": "1955025861952016669",
+          "timestamp": "2025-08-11T21:57:42+00:00",
+          "url": "https://x.com/liquidprismata/status/1955025861952016669",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, see."
+        },
+        {
+          "id": "art_c91c255465a5",
+          "title": "Don receipt from 2025-08-30",
+          "excerpt": "@AlexGodofsky start her on how to manage the emotions of her fragile-ego'd superiors NOW\n\ndon't let her become a maladjusted gifted kid :C",
+          "source_document_id": "1961590254881636769",
+          "timestamp": "2025-08-30T00:42:16+00:00",
+          "url": "https://x.com/liquidprismata/status/1961590254881636769",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, see."
+        },
+        {
+          "id": "art_b376b5c1f38a",
+          "title": "Don receipt from 2025-10-04",
+          "excerpt": "@justalexoki have thought a lot about this\n\nso receptive, no surprise they don't\n\nimagine if I just sat there, not moving, then was mad I didn't cum…",
+          "source_document_id": "1974573582065054044",
+          "timestamp": "2025-10-04T20:33:22+00:00",
+          "url": "https://x.com/liquidprismata/status/1974573582065054044",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, see."
+        },
+        {
+          "id": "art_8312e5c6b966",
+          "title": "Don receipt from 2025-06-12",
+          "excerpt": "don't shame your fire",
+          "source_document_id": "1933122955514462264",
+          "timestamp": "2025-06-12T11:23:22+00:00",
+          "url": "https://x.com/liquidprismata/status/1933122955514462264",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, see."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_2d7cbf2f633c",
+      "proof_score": 0.976,
+      "mass": 29.606,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_75ce06027079",
+      "name": "Which",
+      "summary": "Archive cluster around which: 285 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "which",
+        "may",
+        "enneagram",
+        "only",
+        "way"
+      ],
+      "artifacts": [
+        {
+          "id": "art_840b9b7b1b25",
+          "title": "Which receipt from 2025-08-26",
+          "excerpt": "@Aella_Girl If you're being literal.. erotic photography, I suppose. idk if it's still around but hegreart is one of the first brands with which I became familiar as a young teen…\n\nIt's SOOO dependent on the person. Google image search “boobs” with some descriptors… search “Naked ____”",
+          "source_document_id": "1960240104108155005",
+          "timestamp": "2025-08-26T07:17:14+00:00",
+          "url": "https://x.com/liquidprismata/status/1960240104108155005",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: which, may, enneagram, only."
+        },
+        {
+          "id": "art_128940a0843b",
+          "title": "Which receipt from 2025-07-22",
+          "excerpt": "@Romy_Holland yeah I have no idea how to pick pics tbh\n\nthough, also, diff girls seem to have wildly different reads on which pics are The Ones",
+          "source_document_id": "1947518825097781647",
+          "timestamp": "2025-07-22T04:47:25+00:00",
+          "url": "https://x.com/liquidprismata/status/1947518825097781647",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: which, may, enneagram, only."
+        },
+        {
+          "id": "art_65551e9e59eb",
+          "title": "Which receipt from 2025-09-01",
+          "excerpt": "@aphercotropist that's like saying “1 + 2 makes no sense because 1 is a unit of ontology and 2 is a number of love” or some shit\n\nour semantic associations with mathematical objects *cannot* be regarded as prior to their structure — it is the structure with which the associations associate!",
+          "source_document_id": "1962464586671542556",
+          "timestamp": "2025-09-01T10:36:32+00:00",
+          "url": "https://x.com/liquidprismata/status/1962464586671542556",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: which, may, enneagram, only."
+        },
+        {
+          "id": "art_31f546b5e0d1",
+          "title": "Which receipt from 2025-09-25",
+          "excerpt": "turns out if you wander enough you will manifest that which you seek\n\nbeen wanting a NYC rave\none appeared before me https://t.co/yXIgpbaRew",
+          "source_document_id": "1971069586331382121",
+          "timestamp": "2025-09-25T04:29:44+00:00",
+          "url": "https://x.com/liquidprismata/status/1971069586331382121",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: which, may, enneagram, only."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_bc6fe3c7d45a",
+      "proof_score": 0.916,
+      "mass": 28.303,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_27eefda70a3e",
+      "name": "Only",
+      "summary": "Archive cluster around only: 309 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "only",
+        "may",
+        "any",
+        "see",
+        "way"
+      ],
+      "artifacts": [
+        {
+          "id": "art_1926357add0b",
+          "title": "Only receipt from 2025-10-09",
+          "excerpt": "@SYNESTHEIZURE fr it's not only quite politically diverse but actually surprisingly homey to some quite nasty ideologues",
+          "source_document_id": "1976308497064022133",
+          "timestamp": "2025-10-09T15:27:18+00:00",
+          "url": "https://x.com/liquidprismata/status/1976308497064022133",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: only, may, any, see."
+        },
+        {
+          "id": "art_17d358743f37",
+          "title": "Only receipt from 2025-07-18",
+          "excerpt": "authentically restrictive but only by virtue of her not breaking it \n\nrequires psychical restraint from her to preserve the physical restraint on her\n\nsymbolic.",
+          "source_document_id": "1946146424967549347",
+          "timestamp": "2025-07-18T09:54:00+00:00",
+          "url": "https://x.com/liquidprismata/status/1946146424967549347",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: only, may, any, see."
+        },
+        {
+          "id": "art_f8aa577aa587",
+          "title": "Only receipt from 2025-10-07",
+          "excerpt": "I've never met someone who disliked me for the right reasons. Only I know why you should dislike me and you're wrong",
+          "source_document_id": "1975353880960487562",
+          "timestamp": "2025-10-07T00:14:00+00:00",
+          "url": "https://x.com/liquidprismata/status/1975353880960487562",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: only, may, any, see."
+        },
+        {
+          "id": "art_08308eec2d44",
+          "title": "Only receipt from 2025-08-26",
+          "excerpt": "The elves' long lives stole from them their Passion, by allowing their sense of time to more fully integrate with the cycles of Nature…\n\nOnly Men lived &amp; died in short enough timespans to facilitate the impetuous folly of… daring.\n\nThe fable of Icarus is not *only* cautionary. https://t.co/HqxOjSz4M0",
+          "source_document_id": "1960366426675367999",
+          "timestamp": "2025-08-26T15:39:12+00:00",
+          "url": "https://x.com/liquidprismata/status/1960366426675367999",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: only, may, any, see."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_0c8151c19b35",
+      "proof_score": 0.924,
+      "mass": 27.844,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_11e43e465ba8",
+      "name": "Know",
+      "summary": "Archive cluster around know: 224 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "know",
+        "didn",
+        "want",
+        "feel",
+        "really"
+      ],
+      "artifacts": [
+        {
+          "id": "art_a2f7682d0b92",
+          "title": "Know receipt from 2025-07-16",
+          "excerpt": "@EtherDais Then I suppose I'm looking for the antitendential!\n\nI know many of these types are content with merely *feeling* like they are in contact with a formalization of intuition (versus *actually, rigorously* formalizing it) —  &amp; they are not who I'm targeting",
+          "source_document_id": "1945582491332440088",
+          "timestamp": "2025-07-16T20:33:07+00:00",
+          "url": "https://x.com/liquidprismata/status/1945582491332440088",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, didn, want, feel."
+        },
+        {
+          "id": "art_328c6dbe3e2d",
+          "title": "Know receipt from 2025-08-10",
+          "excerpt": "Never sucked a dick before, but, you know what… \nI'd suck Jesus Christ's dick.",
+          "source_document_id": "1954375020836163925",
+          "timestamp": "2025-08-10T02:51:30+00:00",
+          "url": "https://x.com/liquidprismata/status/1954375020836163925",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, didn, want, feel."
+        },
+        {
+          "id": "art_89a9a8e2c5cf",
+          "title": "Know receipt from 2025-06-10",
+          "excerpt": "@Bonecondor @RandyTreibel I didn't know he was “going around” doing it ; I just saw this one tweet. I also didn't know you guys were close to each other IRL, such that he knew about your health status.\n\nWhen he said “you looked better before”, I took that to mean he thought you looked better before.\n\nmy b",
+          "source_document_id": "1932307481260335263",
+          "timestamp": "2025-06-10T05:22:58+00:00",
+          "url": "https://x.com/liquidprismata/status/1932307481260335263",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, didn, want, feel."
+        },
+        {
+          "id": "art_3b80d9e43d83",
+          "title": "Know receipt from 2025-09-26",
+          "excerpt": "You know the more I learn about the Feminine the more that things like this got me like 🧐 since 2010 you say?… https://t.co/CCsiGLN1IB",
+          "source_document_id": "1971711985122529584",
+          "timestamp": "2025-09-26T23:02:24+00:00",
+          "url": "https://x.com/liquidprismata/status/1971711985122529584",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: know, didn, want, feel."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_53b8c822e8ba",
+      "proof_score": 0.892,
+      "mass": 26.841,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_6a901f73db95",
+      "name": "Way",
+      "summary": "Archive cluster around way: 213 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "way",
+        "same",
+        "feel",
+        "such",
+        "things"
+      ],
+      "artifacts": [
+        {
+          "id": "art_91589f8e961a",
+          "title": "Way receipt from 2025-09-02",
+          "excerpt": "@Sveltee_Mo @unclefemme the way you wrote this totally unironically",
+          "source_document_id": "1962947440299872616",
+          "timestamp": "2025-09-02T18:35:14+00:00",
+          "url": "https://x.com/liquidprismata/status/1962947440299872616",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, same, feel, such."
+        },
+        {
+          "id": "art_71ad064b99ed",
+          "title": "Way receipt from 2025-07-22",
+          "excerpt": "@parakeetnebula just wait til you find the ones that goes all the way to the floor https://t.co/jxxZe3L4XR",
+          "source_document_id": "1947792699001610622",
+          "timestamp": "2025-07-22T22:55:42+00:00",
+          "url": "https://x.com/liquidprismata/status/1947792699001610622",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, same, feel, such."
+        },
+        {
+          "id": "art_4e80884fad16",
+          "title": "Way receipt from 2025-10-05",
+          "excerpt": "@DisciHelvetica @justalexoki Sadly many girls are too ashamed of taking control of their own pleasure to engage in that way, preferring to rely on Hope",
+          "source_document_id": "1974827436991721520",
+          "timestamp": "2025-10-05T13:22:06+00:00",
+          "url": "https://x.com/liquidprismata/status/1974827436991721520",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, same, feel, such."
+        },
+        {
+          "id": "art_115e1d7d476b",
+          "title": "Way receipt from 2025-08-23",
+          "excerpt": "@TomWright165389 @___frye if you're going to do it, \ngo all the way.\n\n(yw 😘)",
+          "source_document_id": "1959198944447140170",
+          "timestamp": "2025-08-23T10:20:03+00:00",
+          "url": "https://x.com/liquidprismata/status/1959198944447140170",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, same, feel, such."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_5b5fe24ca90d",
+      "proof_score": 0.887,
+      "mass": 26.419,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
